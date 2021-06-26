@@ -39,5 +39,6 @@ dist/
 /detectron2/model_zoo/configs
 /datasets
 /models
-
+/venv
+venv
 *.DS_Store*
